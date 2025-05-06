@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rahul Sarkar - Cybersecurity Enthusiast
 
-<!--
-**RahulSarkarCyber/RahulSarkarCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **About Me:**
+I am a passionate **ethical hacker** and **pentester**, specializing in web application security, bug bounty hunting, and security tool development.
 
-Here are some ideas to get you started:
+🔐 **Current Focus:**
+I'm working on improving my skills in **penetration testing**, building **security tools**, and contributing to the cybersecurity community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Learning:**
+- Exploring new cybersecurity techniques
+- Developing custom tools for pentesting
+
+📫 **Connect with me:**
+- [LinkedIn](https://linkedin.com/in/rahulsarkar)
+- [Twitter](https://twitter.com/rahulsarkar)
+- [Personal Website](https://www.rootawareness.com)
