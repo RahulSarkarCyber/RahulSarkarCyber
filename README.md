@@ -9,6 +9,7 @@ I'm working on improving my skills in **penetration testing**, building **securi
 🌱 **Learning:**
 - Exploring new cybersecurity techniques
 - Developing custom tools for pentesting
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulSarkarCyber&show_icons=true&theme=radical)
 
 📫 **Connect with me:**
 - [LinkedIn](https://linkedin.com/in/rahulsarkar)
